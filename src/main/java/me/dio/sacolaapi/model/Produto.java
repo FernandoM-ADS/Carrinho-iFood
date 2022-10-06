@@ -20,7 +20,7 @@ public class Produto {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
-    private String name;
+    private String nome;
     private double valorUnitario;
     @Builder.Default
     private boolean disponivel = true;
