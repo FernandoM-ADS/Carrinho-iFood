@@ -5,10 +5,10 @@
 
 <h3>Pré-Requisitos</h3>
 <ul>
-<li>Java JDK 8+ (Usarei JDK 17)</li>
-<li>IDE para desenvolvimento Java (Usarei IntelliJ Community)</li>
+<li>Java JDK 8+ (JDK 17)</li>
+<li>IDE para desenvolvimento Java (IntelliJ Community)</li>
 <li>O básico sobre Git e GitHub</li>
-<li>Sintáxe básica Java</li>
+<li>Sintaxe básica Java</li>
 <li>Noção acerca de POO</li>
 </ul>
 
